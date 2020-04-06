@@ -5,40 +5,40 @@ title: What should you be asking?
 
 These are just some of the questions I agree (cos they're not my own) that is reasonable for a data scientist to ask. I will be using these for all my projects now onwards. It may not be perfect, but I feel it is somewhere to start with.
 
-_What do you want, exactly?
+_What do you want, exactly?_
 
-What should it look like, exactly?
+_What should it look like, exactly?_
 
-When do you want it?
+_When do you want it?_
 
-What does your boss want to do with what you do with it?
+_What does your boss want to do with what you do with it?_
 
-What is important to you?
+_What is important to you?_
 
-Why do you want it?
+_Why do you want it?_
 
-How will you use it?
+_How will you use it?_
 
-Who will use it?
+_Who will use it?_
 
-Who might use it?
+_Who might use it?_
 
-Where will the output be stored?
+_Where will the output be stored?_
 
-How often will you use it?
+_How often will you use it?_
 
-How often may you use it?
+_How often may you use it?_
 
-What accuracy do you want?
+_What accuracy do you want?_
 
-Will this need to be changed in the future?
+_Will this need to be changed in the future?_
 
-After these questions are asked they should know to come back with questions like:
+After these questions are asked, you should know to come back with questions like:
 
-This is a mockup of the output you described, the way I understand it. Is that what you imagined?
+_This is a mockup of the output you described, the way I understand it. Is that what you imagined?_
 
-Are there things you feel I'm unclear about?
+_Are there things you feel I'm unclear about?_
 
-How do you feel about what it looks like?_
+_How do you feel about what it looks like?_
 
 Now, let's find ourselves a good project to work on!
