@@ -3,7 +3,7 @@ layout: post
 title: What should you be asking?
 ---
 
-These are just some of the questions I agree (cos they're not my own) that is reasonable for a data scientist to ask. I will be using these for all my projects now onwards. It may not be perfect, but I feel it it somewhere to start with.
+These are just some of the questions I agree (cos they're not my own) that is reasonable for a data scientist to ask. I will be using these for all my projects now onwards. It may not be perfect, but I feel it is somewhere to start with.
 
 _What do you want, exactly?
 
